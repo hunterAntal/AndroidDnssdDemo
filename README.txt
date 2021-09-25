@@ -1,4 +1,4 @@
-
+Hi there!
 AndroidDnssdDiscoveryEclipse: an eclipse version.
 AndroidDnssdDiscovery: a netbeans version of the thing.
 
